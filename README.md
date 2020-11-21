@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Something about me:**
-- 💻 Tech Stack:  Python3, Go, MySQL
-- 🀄 Chinese Blog:  https://juejin.cn/user/3095849305117662
-- 📧 Contact Me:  lvdoziii@qq.com
+**Something about me 🍥:**
+- 💻 Tech Stack:&ensp;[Python3](https://www.python.org/),&ensp;[Go](https://golang.org/),&ensp;[MySQL](https://www.mysql.com/)
+- 🀄 Chinese Blog:&ensp;https://juejin.cn/user/3095849305117662
+- 📧 Contact Me:&ensp;lvdoziii@qq.com

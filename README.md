@@ -1,4 +1,4 @@
-# Hi there, I'm lvdoziii, nice to meet you ~ 🌏
+# Hi there ~ 🌏
 
 <!--
 **lvdoziii/lvdoziii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**About me**
+**Something about me:**
 - 💻 Tech Stack:  Python3, Go, MySQL
 - 🀄 Chinese Blog:  https://juejin.cn/user/3095849305117662
 - 📧 Contact Me:  lvdoziii@qq.com

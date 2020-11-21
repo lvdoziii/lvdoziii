@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 🌏
 
 <!--
 **lvdoziii/lvdoziii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 💻 Tech Stack: https://badgen.net/badge/color/blue/Python3
-- 🀄 Chinese Blog: https://juejin.cn/user/3095849305117662
-- 📧 Contact Me: lvdoziii@qq.com
+**I'm Lvdoziii, nice to meet you ~**
+<br>
+**About me**
+- 💻 Tech Stack:  ![Python3](https://img.shields.io/badge/%23-Python3-blue)&emsp;![Go](https://img.shields.io/badge/%2F%2F-Go-9cf)&emsp;![MySQL](https://img.shields.io/badge/%2F*-MySQL-orange)
+- 🀄 Chinese Blog:  https://juejin.cn/user/3095849305117662
+- 📧 Contact Me:  lvdoziii@qq.com

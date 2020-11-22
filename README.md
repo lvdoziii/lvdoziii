@@ -18,4 +18,5 @@ Emmmm...I'm not good at introducing myself :p
 - [A Python3 Flask mini blog](https://github.com/lvdoziii/flask-mini-blog)
 # 
 ![goku](https://64.media.tumblr.com/0a06108e630d56b5481d89951c91e99d/tumblr_otmaat1yFR1qzxv73o1_540.gifv)
-🌀 From [lvdoziii](https://github.com/lvdoziii)
+🌀 From [lvdoziii](https://github.com/lvdoziii)  
+<img src="https://64.media.tumblr.com/0a06108e630d56b5481d89951c91e99d/tumblr_otmaat1yFR1qzxv73o1_540.gifv" alt="alt text" width="200" height="100">

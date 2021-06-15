@@ -1,8 +1,6 @@
 # Hi there ~ 🌏
 
-<!--
-**lvdoziii/lvdoziii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 ### 🍥 I'm lvdoziii. 
 Emmmm...I'm not good at introducing myself :p  
 
